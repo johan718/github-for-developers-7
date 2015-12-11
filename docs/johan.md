@@ -4,3 +4,4 @@
 **Location:** NYC <br>
 **Food:**     Pizza <br>
 **Hobby:**    Video Games <br>
+**Color:** Black <br>
